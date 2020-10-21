@@ -2,8 +2,10 @@
 
 Here, we use a Makefile to run a few commands:
 
-> `make all`
-> `make sorted.undef`
+```
+    make all
+    make sorted.undef
+```
 
-A file will be created that contains the __Undefined__ references.
+A file will be created that contains the _Undefined_ references.
 
